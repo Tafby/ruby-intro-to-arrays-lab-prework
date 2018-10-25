@@ -20,3 +20,9 @@ end
 def first_element_with_array_methods(array)
   return array.first
 end
+def last_element_with_array_methods(array)
+  return array.last
+end
+def length_of_array(array)
+  return array.length
+end
