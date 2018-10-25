@@ -12,7 +12,7 @@ def first_element(array)
   return array.first
 end
 def third_element(array)
-  return array[3]
+  return array.at(2)
 end
 def last_element(array)
   return array.last
